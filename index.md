@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Peiwen Pages
 
 You can use the [editor on GitHub](https://github.com/Peiwen0712/peiwen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
